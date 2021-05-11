@@ -9,11 +9,11 @@ Updated: 2021-05-09 10:13:35
 
 header#site-header {
     position: fixed;
-    top: 20px;
+    top: 0px;
 }
 
 .page-header {
-    padding-top: 150px;
+    padding-top: 120px;
     background-color: white !important;
 }
 .page-header-title {
