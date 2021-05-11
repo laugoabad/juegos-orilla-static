@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Mon, 10 May 2021 19:46:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 May 2021 10:00:20 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,40 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 	<item>
+		<title>mimmmm</title>
+		<link>./../2021/05/11/mimmmm/index.html</link>
+					<comments>./../2021/05/11/mimmmm/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[lgonzalezabad]]></dc:creator>
+		<pubDate>Tue, 11 May 2021 09:58:27 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">./../index.html?p=449</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="449" class="elementor elementor-449" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-eec288b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="eec288b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e1ebe9" data-id="5e1ebe9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c143a2e elementor-widget elementor-widget-text-editor" data-id="c143a2e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>./../2021/05/11/mimmmm/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>¡Hola, mundo!</title>
 		<link>./../2021/05/09/hola-mundo-2/index.html</link>
 					<comments>./../2021/05/09/hola-mundo-2/index.html#respond</comments>
@@ -638,87 +672,6 @@
 		]]></content:encoded>
 					
 					<wfw:commentRss>./../2020/12/22/interdum-magna-augue-eget/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Duis sagitis ipsum prasent</title>
-		<link>./../2020/12/22/duis-sagitis-ipsum-prasent/index.html</link>
-					<comments>./../2020/12/22/duis-sagitis-ipsum-prasent/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[lgonzalezabad]]></dc:creator>
-		<pubDate>Tue, 22 Dec 2020 19:37:00 +0000</pubDate>
-				<category><![CDATA[Painting]]></category>
-		<guid isPermaLink="false">http://photos.oceanwp.org/?p=225</guid>
-
-					<description><![CDATA[Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum nulla metus metus [&#8230;]]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="225" class="elementor elementor-225" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-ecqmkxl elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ecqmkxl" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-qkcbgnd" data-id="qkcbgnd" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5cdy1yv" data-id="5cdy1yv" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-hsrszwk elementor-widget elementor-widget-text-editor" data-id="hsrszwk" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum nulla metus metus ullamcorper.						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f65c8rx" data-id="f65c8rx" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-du1hyck elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="du1hyck" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-lxg1u49" data-id="lxg1u49" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-dibq3xx gallery-spacing-custom elementor-widget elementor-widget-image-gallery" data-id="dibq3xx" data-element_type="widget" data-widget_type="image-gallery.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image-gallery">
-			
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="dibq3xx" data-elementor-lightbox-title="_0000_Calque-5" href='./../wp-content/uploads/2020/12/0000_Calque-5.png'><img width="768" height="461" src="./../wp-content/uploads/2020/12/0000_Calque-5-768x461.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2020/12/0000_Calque-5-768x461.png 768w, ./../wp-content/uploads/2020/12/0000_Calque-5-300x180.png 300w, ./../wp-content/uploads/2020/12/0000_Calque-5.png 1000w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="dibq3xx" data-elementor-lightbox-title="_0001_Calque-4" href='./../wp-content/uploads/2020/12/0001_Calque-4.png'><img width="768" height="461" src="./../wp-content/uploads/2020/12/0001_Calque-4-768x461.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2020/12/0001_Calque-4-768x461.png 768w, ./../wp-content/uploads/2020/12/0001_Calque-4-300x180.png 300w, ./../wp-content/uploads/2020/12/0001_Calque-4.png 1000w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="dibq3xx" data-elementor-lightbox-title="_0002_Calque-3" href='./../wp-content/uploads/2020/12/0002_Calque-3.png'><img width="768" height="461" src="./../wp-content/uploads/2020/12/0002_Calque-3-768x461.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2020/12/0002_Calque-3-768x461.png 768w, ./../wp-content/uploads/2020/12/0002_Calque-3-300x180.png 300w, ./../wp-content/uploads/2020/12/0002_Calque-3.png 1000w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="dibq3xx" data-elementor-lightbox-title="_0003_Calque-2" href='./../wp-content/uploads/2020/12/0003_Calque-2.png'><img width="768" height="461" src="./../wp-content/uploads/2020/12/0003_Calque-2-768x461.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="./../wp-content/uploads/2020/12/0003_Calque-2-768x461.png 768w, ./../wp-content/uploads/2020/12/0003_Calque-2-300x180.png 300w, ./../wp-content/uploads/2020/12/0003_Calque-2.png 1000w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-f228e3f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f228e3f" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b0f7ecd" data-id="b0f7ecd" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b6199d0 elementor-widget elementor-widget-text-editor" data-id="b6199d0" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum nulla metus metus ullamcorper.						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-baf4aa8" data-id="baf4aa8" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-65d7d27 elementor-widget elementor-widget-text-editor" data-id="65d7d27" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum nulla metus metus ullamcorper.						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-						</div>
-					</div>
-		]]></content:encoded>
-					
-					<wfw:commentRss>./../2020/12/22/duis-sagitis-ipsum-prasent/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
